@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ovs:video xmlns:ovs="http://webmaster.yandex.ru/schemas/video"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://webmaster.yandex.ru/schemas/video">
+  <ovs:content_id>1</ovs:content_id>
+  <ovs:url>https://dipmsk.com/video/fgt.mp4</ovs:url>
+  <ovs:thumbnail>https://dipmsk.com/video/diplop_goznak.jpg</ovs:thumbnail>
+  <ovs:title>купить диплом</ovs:title>
+  <ovs:description>
+   Интернет магазин «ДИП» предлагает купить диплом, для создания которого применяется ✔оригинальный бланк с ✔индивидуальным номером и серией. Специалисты компании обладают ✔7-летним опытом работы на ФГУП «Гознак»! Наши курьеры ✔организуют бесплатную доставку диплома по Москве и МО в удобное для клиента время. ✔Оплата после осмотра. Вы можете оставить номер телефона, и наши сотрудники помогут вам выбрать документ."
+  </ovs:description>
+  <ovs:upload_date>2016-02-17T00:00:00Z</ovs:upload_date>
+  <ovs:duration>34</ovs:duration>
+  <ovs:adult>no</ovs:adult>
+  <ovs:category>short_video</ovs:category>
+  <ovs:production_company>«ДИП»</ovs:production_company>
+  <ovs:poster>https://dipmsk.com/video/diplop_goznak.jpg</ovs:poster>
+  <ovs:subtitle language="ru" url="https://dipmsk.com/video/kupit-diplom_ru.vtt"/>
+  <ovs:subtitle language="en" url="https://dipmsk.com/video/kupit-diplom_en.vtt"/>
+  <ovs:tag>купить диплом</ovs:tag>
+  <ovs:tag>купить диплом в москве</ovs:tag>
+  <ovs:tag>купить диплом вуза</ovs:tag>
+  <ovs:tag>купить диплом о высшем образовании</ovs:tag>
+  <ovs:tag>купить диплом о высшем образовании недорого</ovs:tag>
+  <ovs:tag>купить диплом техникума</ovs:tag>
+  <ovs:tag>купить диплом колледжа</ovs:tag>
+  
+</ovs:video>

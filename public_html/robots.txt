@@ -1,0 +1,11 @@
+
+User-Agent:*
+Disallow:/*.php
+Disallow:/*.txt
+Disallow:/error404/
+Disallow: /thank.html
+Disallow: /*?
+Sitemap: https://dipmsk.com/sitemap.xml
+Disallow: /js/jsnew1.js
+Disallow: /js/jsnew.js
+Host: mskdip.com
